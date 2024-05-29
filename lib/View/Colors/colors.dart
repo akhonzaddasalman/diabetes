@@ -1,0 +1,27 @@
+import 'package:flutter/material.dart';
+
+const Color kPrimaryColor = Color(0xffff80AB);
+const Color kInfoColor = Color(0xff2f80ed);
+const Color kIconSearchColor = Color(0xff464646);
+const Color kIconColor = Color(0xffBBBBBB);
+const Color kH2Color = Color(0xff19303E);
+const Color kDescriptionColor = Color(0xff606060);
+const Color kHintTextColor = Color(0xff8E8A8A);
+const Color kTitleColor = Color(0xff0A0909);
+const Color kTextFieldFillColor = Color(0xffFCFCFC);
+const Color kBoxColor = Color(0xffF2F2FF);
+const Color kCardColor = Color(0xffE5E1E1);
+const Color kUnselectedItemColor = Color(0xffA2A2A2);
+const Color kSuccessColor = Color(0xff27AE60);
+const Color kWarningColor = Color(0xffE2B93B);
+const Color kDangerColor = Color(0xffEB5757);
+const Color kButtonBGColor = Color(0xffFCEAEA);
+const Color kDeleteBackgroundColor = Color(0xffFFE4E4);
+const Color kWhiteColor = Color(0xffffffff);
+const Color kBlackColor = Color(0xff000000);
+const Color kBorderColor = Color(0xff8f8f8f);
+const Color kNameColor = Color(0xff4A4B4D);
+const Color kCheckBackgroundColor = Color(0xffDEE1FF);
+const Color kSendChatColor = Color(0xffEEF7F9);
+const Color kReceiveChatColor = Color(0xffF9EEEE);
+const Color kRatingStarColor = Colors.amber;

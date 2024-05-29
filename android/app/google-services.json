@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370423946388",
+    "project_id": "mindingherdia",
+    "storage_bucket": "mindingherdia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370423946388:android:09d0775839a1db88e32881",
+        "android_client_info": {
+          "package_name": "com.mindingherdia.mindingherdia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClgEHyrWapZ_wHg_vLJJRy5GXSIhBFrP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
